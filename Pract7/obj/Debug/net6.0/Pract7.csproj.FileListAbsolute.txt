@@ -1,0 +1,15 @@
+D:\УНИВЕР\Pract7\bin\Debug\net6.0\Pract7.exe
+D:\УНИВЕР\Pract7\bin\Debug\net6.0\Pract7.deps.json
+D:\УНИВЕР\Pract7\bin\Debug\net6.0\Pract7.runtimeconfig.json
+D:\УНИВЕР\Pract7\bin\Debug\net6.0\Pract7.dll
+D:\УНИВЕР\Pract7\bin\Debug\net6.0\Pract7.pdb
+D:\УНИВЕР\Pract7\obj\Debug\net6.0\Pract7.csproj.AssemblyReference.cache
+D:\УНИВЕР\Pract7\obj\Debug\net6.0\Pract7.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР\Pract7\obj\Debug\net6.0\Pract7.AssemblyInfoInputs.cache
+D:\УНИВЕР\Pract7\obj\Debug\net6.0\Pract7.AssemblyInfo.cs
+D:\УНИВЕР\Pract7\obj\Debug\net6.0\Pract7.csproj.CoreCompileInputs.cache
+D:\УНИВЕР\Pract7\obj\Debug\net6.0\Pract7.dll
+D:\УНИВЕР\Pract7\obj\Debug\net6.0\refint\Pract7.dll
+D:\УНИВЕР\Pract7\obj\Debug\net6.0\Pract7.pdb
+D:\УНИВЕР\Pract7\obj\Debug\net6.0\Pract7.genruntimeconfig.cache
+D:\УНИВЕР\Pract7\obj\Debug\net6.0\ref\Pract7.dll

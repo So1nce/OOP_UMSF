@@ -1,0 +1,15 @@
+D:\УНИВЕР\Pract8\bin\Debug\net6.0\Pract8.exe
+D:\УНИВЕР\Pract8\bin\Debug\net6.0\Pract8.deps.json
+D:\УНИВЕР\Pract8\bin\Debug\net6.0\Pract8.runtimeconfig.json
+D:\УНИВЕР\Pract8\bin\Debug\net6.0\Pract8.dll
+D:\УНИВЕР\Pract8\bin\Debug\net6.0\Pract8.pdb
+D:\УНИВЕР\Pract8\obj\Debug\net6.0\Pract8.csproj.AssemblyReference.cache
+D:\УНИВЕР\Pract8\obj\Debug\net6.0\Pract8.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР\Pract8\obj\Debug\net6.0\Pract8.AssemblyInfoInputs.cache
+D:\УНИВЕР\Pract8\obj\Debug\net6.0\Pract8.AssemblyInfo.cs
+D:\УНИВЕР\Pract8\obj\Debug\net6.0\Pract8.csproj.CoreCompileInputs.cache
+D:\УНИВЕР\Pract8\obj\Debug\net6.0\Pract8.dll
+D:\УНИВЕР\Pract8\obj\Debug\net6.0\refint\Pract8.dll
+D:\УНИВЕР\Pract8\obj\Debug\net6.0\Pract8.pdb
+D:\УНИВЕР\Pract8\obj\Debug\net6.0\Pract8.genruntimeconfig.cache
+D:\УНИВЕР\Pract8\obj\Debug\net6.0\ref\Pract8.dll
